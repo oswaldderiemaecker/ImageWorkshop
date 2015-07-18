@@ -22,7 +22,7 @@ class ImageWorkshopTest extends \PHPUnit_Framework_TestCase
     
     const IMAGE_SAMPLE_PATH = '/Resources/images/sample1.jpg';
     const FONT_SAMPLE_PATH  = '/Resources/fonts/arial.ttf';
-    const WEB_PATH          = 'http://localhost:8000';
+    const WEB_PATH          = 'http://localhost';
     
     // Tests
     // ===================================================================================
